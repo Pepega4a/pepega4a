@@ -32,7 +32,7 @@
 <h3>🏆 GitHub Trophy </h3>
 <img src="https://github-profile-trophy.vercel.app/?username=FunRaccoon&theme=nord"/>
 
-<h3> There to find me</h3>
+<h3> Where to find me</h3>
 <a href="https://discord.com/users/262553435566637057">
   <img src="https://dcbadge.limes.pink/api/shield/262553435566637057"/>
 </a>
