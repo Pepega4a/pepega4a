@@ -27,10 +27,10 @@
 </p>
 
 <h2> GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunRaccoon&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepega4a&layout=compact"/>
 
 <h3>🏆 GitHub Trophy </h3>
-<img src="https://github-profile-trophy.vercel.app/?username=FunRaccoon&theme=nord"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Pepega4a&theme=nord"/>
 
 <h3> Where to find me</h3>
 <a href="https://discord.com/users/262553435566637057">
