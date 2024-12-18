@@ -1,10 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi mate, nice to meet you</h1>
 <p>Welcome to my page! </br> I'm Vsevolod, Fullstack and C# developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Russia</b>.
 
-<a href="https://discord.com/users/262553435566637057">![](https://dcbadge.limes.pink/api/shield/262553435566637057)</a>
-
 <hr>
-# 💻 Technical stack:
+<h2>💻 Technical stack:</h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -28,11 +26,16 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h1>GitHub Stats</h1>
+<h2> GitHub Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunRaccoon&layout=compact"/>
 
-<h1>🏆 GitHub Trophy </h1>
+<h3>🏆 GitHub Trophy </h3>
 <img src="https://github-profile-trophy.vercel.app/?username=FunRaccoon&theme=nord"/>
+
+<h3> There to find me</h3>
+<a href="https://discord.com/users/262553435566637057">
+  <img src="https://dcbadge.limes.pink/api/shield/262553435566637057"/>
+</a>
 
 ---
 <a href="https://visitcount.itsvg.in">
