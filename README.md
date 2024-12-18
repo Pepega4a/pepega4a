@@ -28,6 +28,9 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<h1>GitHub Stats</h1>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunRaccoon&layout=compact"/>
+
 <h1>🏆 GitHub Trophy </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=FunRaccoon&theme=nord"/>
 
