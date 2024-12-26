@@ -2,7 +2,7 @@
 <p>Welcome to my page! </br> I'm Vsevolod, Fullstack and C# developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Russia</b>.
 
 <hr>
-<h2>💻 Technical stack:</h2>
+<h2>💻 Technical features:</h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -18,12 +18,27 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" />
+  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" />
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" />
+  <img alt="Nest" src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+  <img alt="Godot" src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" />
+  <img alt="Unreal" src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white" />
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+  <img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
+  <img alt="" src="" />
 </p>
 
 <h2> GitHub Stats</h2>
